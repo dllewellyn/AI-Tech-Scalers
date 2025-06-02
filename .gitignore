@@ -1,0 +1,14 @@
+# Build output
+build/
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+suggestions.md
