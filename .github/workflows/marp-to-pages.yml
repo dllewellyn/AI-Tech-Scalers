@@ -1,51 +1,36 @@
-name: marp-to-pages
+name: Build and Deploy Marp HTML to GitHub Pages
+
 on:
   push:
     branches: [ main ]
-  pull_request:
-    types:
-      - opened
-      - reopened
-      - synchronize
-      - closed
+  workflow_dispatch:
+
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Checkout code
-      uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-    - name: Ensure build dir exists
-      run: mkdir -p build
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
 
-    - name: Copy images and assets to build
-      run: |
-        cp -R *.jpeg build/ 2>/dev/null || true
-        cp -R *.jpg build/ 2>/dev/null || true  
-        cp -R *.png build/ 2>/dev/null || true
-        cp -R *.css build/ 2>/dev/null || true
+      - name: Build Marp HTML
+        run: marp presentation.md --html --output presentation.html
 
-    - name: Marp Build (presentation.html)
-      uses: docker://marpteam/marp-cli:v3.4.0
-      with:
-        args: presentation.md --theme rose-pine-dawn.css -o build/index.html
-      env:
-        MARP_USER: root:root
-
-    - name: Marp Build (presentation.pdf)  
-      uses: docker://marpteam/marp-cli:v3.4.0
-      with:
-        args: presentation.md --theme rose-pine-dawn.css -o build/presentation.pdf
-      env:
-        MARP_USER: root:root
-
-    - name: Deploy to GitHub Pages
-      if: github.event_name != 'pull_request'
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
-        enable_jekyll: false
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          keep_files: true
+          force_orphan: true
+          enable_jekyll: false
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
