@@ -18,7 +18,7 @@ footer: 'The Shifting Sands of Startup Scaling --- CreateFuture @ Glasgow Tech M
 
 **We'll explore:**
 * **Two (made up) Companies:** Traditional vs. AI-powered approaches to building the same solution
-* **Key Phases:** MVP development, scaling challenges, crisis response
+* **Key Phases:** MVP development and scaling challenges
 
 ---
 
@@ -68,8 +68,7 @@ Their philosophy prioritises capital efficiency and agility, maintaining a small
 
 ## Marketing - VeriCask StandardBuild
 
-
-<div class="headcount">StandardBuild: 5 people</div>
+<div class="headcount">StandardBuild: 2 people</div>
 
 <!-- _class: split -->
 
@@ -101,19 +100,20 @@ One marketing lead uses AI to repurpose content, generate tweets, refine blog po
 
 <!-- _class: split -->
 
-<div class="ldiv">
 
-<div class="headcount-left">StandardBuild: 8 people</div>
+<div class="div">
+
+<div class="headcount-left">StandardBuild: 4 people</div>
 
 ### The Traditional Approach
 
-Founders and admin staff handle email drafting, legal reviews, expense tracking, invoicing, and pitch deck preparation through traditional human-intensive processes.
+Founders and admin staff handle email drafting, legal reviews, expense tracking, invoicing, and pitch deck preparation through traditional human-intensive processes. Operations staff also manage payroll, HR, and compliance tasks manually, increasing overhead as the company grows.
 
 </div>
 
 <div class="rdiv">
 
-<div class="headcount-right">AI-Optima: 1 person</div>
+<div class="headcount-right">AI-Optima: 2 people</div>
 
 ### The AI-Powered Approach
 
@@ -125,7 +125,7 @@ Core founders use AI assistants for email drafting, contract reviews, pitch deck
 
 ## Building the UI - VeriCask StandardBuild
 
-<div class="headcount">StandardBuild: 14 people</div>
+<div class="headcount">StandardBuild: 11 people</div>
 
 <!-- _class: split -->
 
@@ -147,7 +147,7 @@ UI/UX designers and front-end developers follow established design sprints and d
 
 ## Building the UI - VeriCask AI-Optima
 
-<div class="headcount">AI-Optima: 3 people</div>
+<div class="headcount">AI-Optima: 5 people</div>
 
 <!-- _class: split -->
 
@@ -183,7 +183,7 @@ Backend developers manually write, debug, and test code with extensive human eff
 
 <div class="rdiv">
 
-<div class="headcount-right">AI-Optima: 6 people</div>
+<div class="headcount-right">AI-Optima: 11 people</div>
 
 ### The AI-Powered Approach
 
@@ -198,8 +198,7 @@ Backend developers use GitHub Copilot and AI coding agents to assist in code gen
 <!-- _class: split -->
 
 <div class="ldiv">
-
-<div class="headcount-left">StandardBuild: 22 people</div>
+<div class="headcount-left">StandardBuild: 21 people</div>
 
 ### The Traditional Approach
 
@@ -209,11 +208,11 @@ Dedicated QA testers manually create test cases, execute testing plans, and cond
 
 <div class="rdiv">
 
-<div class="headcount-right">AI-Optima: 6 people</div>
+<div class="headcount-right">AI-Optima: 12 people</div>
 
 ### The AI-Powered Approach
 
-Developers use Playwright with Meta Test Pilot and AI-powered testing environments for automated test generation, execution, and coverage expansion.
+Only 1 dedicated QA specialist, with the rest of the team using AI-powered testing tools (Playwright, LambdaTest, Co-Pilot) for automated test generation, execution, and coverage expansion.
 
 </div>
 
@@ -225,7 +224,7 @@ Developers use Playwright with Meta Test Pilot and AI-powered testing environmen
 
 <div class="ldiv">
 
-<div class="headcount-left">StandardBuild: 25 people</div>
+<div class="headcount-left">StandardBuild: 23 people</div>
 
 ### The Traditional Approach
 
@@ -235,7 +234,7 @@ Dedicated support staff manually set up channels, create knowledge bases, and ha
 
 <div class="rdiv">
 
-<div class="headcount-right">AI-Optima: 6 people</div>
+<div class="headcount-right">AI-Optima: 13 people</div>
 
 ### The AI-Powered Approach
 
@@ -245,38 +244,37 @@ AI agents generate FAQs from documentation and manage calls and support tickets,
 
 ---
 
-## Summary - VeriCask StandardBuild
+## Summary: Two Approaches to Building VeriCask
 
-<div class="headcount">StandardBuild: 25+ people</div>
+<!-- _class: split -->
+
+<div class="ldiv">
+
+<div class="headcount-left">StandardBuild: 23 people</div>
 
 ### Traditional Approach Results
 
-* **Headcount to MVP:** **~20-25+ individuals**
+* **Headcount to MVP:** **~23 individuals**
 * **Key Challenges:**
   * Longer time-to-market
   * Higher initial burn rate
   * Competition for hiring talent
   * Slower iteration cycles
 
-<div class="key-problem"><p><strong>Key Problem:</strong> Time, cost, and coordination overhead of people-intensive development.</p></div>
+</div>
 
+<div class="rdiv">
 
----
-
-## Summary - VeriCask AI-Optima
-
-<div class="headcount">AI-Optima: 8 people</div>
+<div class="headcount-right">AI-Optima: 13 people</div>
 
 ### AI-Powered Approach Results
 
-* **Headcount to MVP:** **~5-8 AI-augmented individuals**
+* **Headcount to MVP:** **~13 AI-augmented individuals**
 * **Key Challenges:**
-  * Quality/security of AI-assisted work
-  * Effective AI tool integration
-  * Learning curve & AI platform dependency
+  * Smaller team may hit scaling/organizational issues sooner and be less prepared to handle them
   * Finding AI-skilled talent
 
-<div class="key-problem"><p><strong>Key Problem:</strong> Operationalizing AI tools effectively while ensuring quality and security.</p></div>
+</div>
 
 ---
 
@@ -293,7 +291,7 @@ At Create Future, we usually see three broad areas that need attention when comp
 
 ## Some things stay the same 
 
-* **North Star & Product Strategy** - Clear vision for VeriCask and coherent product strategy with market positioning and prioritization guidance.
+* **North Star & Product Strategy** - Clear vision for VeriCask and coherent product strategy with market positioning and prioritisation guidance.
 * **Cloud Architecture** - Robust, scalable, secure architecture for ChainTrace with infrastructure to support growing customer base.
 * **Platform Security** - Protection of VeriCask platform and ChainTrace ledger with customer data security and compliance.
 
@@ -301,9 +299,9 @@ At Create Future, we usually see three broad areas that need attention when comp
 
 ## But there are differences too...
 
-* Goals and outcomes - Smaller businesses will find it significantly easier to align their businesses around certain goals. 
-* Engineering practices - Smaller teams will find it much easier to align on engineering practices, and AI can help with definition, implementation and enforcement of everything from CI/CD to coding practices.
-* Tech stacks - A key driver for changing tech-stacks is scaling across a number of different teams and hiring for certain skills. AI makes it easier to make the shift, makes skills less important and keeps teams smaller to delay the decision
+* **Goals and outcomes** - Smaller businesses will find it significantly easier to align their businesses around certain goals. 
+* **Engineering practices** - Smaller teams will find it much easier to align on engineering practices, and AI can help with definition, implementation and enforcement of everything from CI/CD to coding practices.
+* **Tech stacks** - A key driver for changing tech-stacks is scaling across a number of different teams and hiring for certain skills. AI makes it easier to make the shift, makes skills less important and keeps teams smaller to delay the decision
 --- 
 
 ## And some you don't worry about at all...
@@ -325,14 +323,7 @@ At Create Future, we usually see three broad areas that need attention when comp
 
 ## Questions?
 
-**Let's discuss how CreateFuture can help your organization leverage AI to rethink your scaling journey.**
-
-<br/>
-<p style="text-align:center;">
-<a href="mailto:hello@createfuture.com" class="cta-button">Get in touch</a><br/>
-<br/>
-hello@createfuture.com | createfuture.com
-</p>
+<img src="qr-code.png" alt="QR Code for Linktree" class="core-question-image">
 
 <style>
 .headcount {
