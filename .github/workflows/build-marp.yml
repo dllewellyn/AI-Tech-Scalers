@@ -28,13 +28,13 @@ jobs:
         run: mkdir -p build
 
       - name: Generate PDF from Markdown
-        run: marp presentation.md --pdf --output build/presentation.pdf
+        run: marp presentation.md --theme-set ./rose-pine-dawn.css --pdf --output build/presentation.pdf
 
       - name: Generate HTML from Markdown
-        run: marp presentation.md --html --output build/presentation.html
+        run: marp presentation.md --theme-set ./rose-pine-dawn.css --html --output build/presentation.html
 
       - name: Generate slides (default .pptx)
-        run: marp presentation.md --pptx --output build/presentation.pptx
+        run: marp presentation.md --theme-set ./rose-pine-dawn.css --pptx --output build/presentation.pptx
 
       - name: Upload release assets
         uses: softprops/action-gh-release@v2

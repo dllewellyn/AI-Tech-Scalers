@@ -24,7 +24,7 @@ jobs:
         run: npm install -g @marp-team/marp-cli
 
       - name: Build Marp HTML
-        run: marp presentation.md --html --output presentation.html
+        run: marp presentation.md --theme-set ./rose-pine-dawn.css --html --output presentation.html
 
       - name: Rename HTML to index.html for GitHub Pages
         run: mv presentation.html index.html
