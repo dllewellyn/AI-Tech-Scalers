@@ -6,9 +6,8 @@ This repository contains the Marp slide deck for the talk:
 
 ## View the Presentation
 
-You can view the presentation as a website here:
-
-[Open the Presentation](./presentation.html)
+- [Open the Presentation Online](http://dllewellyn.github.io/AI-Tech-Scalers)
+- [Open the Presentation Locally](./presentation.html)
 
 ---
 

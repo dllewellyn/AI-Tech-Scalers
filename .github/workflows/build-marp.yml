@@ -1,0 +1,44 @@
+name: Build and Export Marp Slides
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+  workflow_dispatch:
+
+jobs:
+  build-marp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+
+      - name: Create build directory
+        run: mkdir -p build
+
+      - name: Generate PDF from Markdown
+        run: marp presentation.md --pdf --output build/presentation.pdf
+
+      - name: Generate HTML from Markdown
+        run: marp presentation.md --html --output build/presentation.html
+
+      - name: Generate slides (default .pptx)
+        run: marp presentation.md --pptx --output build/presentation.pptx
+
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            build/presentation.pdf
+            build/presentation.html
+            build/presentation.pptx
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
