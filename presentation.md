@@ -4,10 +4,10 @@ theme: rose-pine-dawn
 author: Daniel Prince-Llewellyn
 size: 16:9
 paginate: true
-footer: 'Rethinking Scale: Building VeriCask --- CreateFuture @ Glasgow Tech Meetup'
+footer: 'The Shifting Sands of Startup Scaling --- CreateFuture @ Glasgow Tech Meetup'
 ---
-# Rethinking Scale: Building VeriCask
-## AI Powered vs. Traditional Start-up and Scale-up approaches
+# The Shifting Sands of Startup Scaling
+## How AI Is changing the way tech companies scale
 <p>CreateFuture<br/>Glasgow Tech Meetup</p>
 
 ---
@@ -17,12 +17,16 @@ footer: 'Rethinking Scale: Building VeriCask --- CreateFuture @ Glasgow Tech Mee
 ### Tonight's Journey: Two Companies, One Product, Radically Different Approaches
 
 **We'll explore:**
-* **The Product:** VeriCask's ChainTrace - whisky authentication platform
-* **Two Companies:** Traditional vs. AI-powered approaches to building the same solution
+* **Two (made up) Companies:** Traditional vs. AI-powered approaches to building the same solution
 * **Key Phases:** MVP development, scaling challenges, crisis response
-* **Real Comparisons:** Team sizes, costs, timelines, and outcomes
 
-**Core Question:** *How does AI fundamentally change the way we build and scale tech companies?*
+---
+
+## The Core Question
+
+How does AI fundamentally change the way we build and scale tech companies?
+
+<img src="to-the-future.jpeg" alt="Traditional vs AI-powered workflows" class="core-question-image">
 
 ---
 # Build VeriCask's **ChainTrace** Platform
@@ -33,23 +37,19 @@ footer: 'Rethinking Scale: Building VeriCask --- CreateFuture @ Glasgow Tech Mee
 
 ChainTrace is a whisky authentication platform using secure NFC tags and digital certificates. It tracks each bottle's complete journey from distillation to consumer, enabling instant verification via smartphone and protecting collectors' investments through tamper-proof provenance records.
 
-**Two companies, two very different approaches to building this same product...**
-
 ---
 
 ## VeriCask StandardBuild: The Traditional Approach
 
-**StandardBuild follows the conventional tech startup playbook: secure funding, hire specialists for each function, and build teams around established DevOps and Agile practices.** 
-
-Their philosophy centers on proven methodologies with dedicated human expertise for every business area.
+**StandardBuild** follows the conventional tech startup playbook: secure funding, hire specialists for each function, and build teams around established DevOps and Agile practices.
 
 ---
 
 ## VeriCask AI-Optima: The AI-Powered Approach
 
-**AI-Optima takes a radically different path: deeply integrate AI tools across all business functions from day one.**
+**AI-Optima** takes a radically different path: deeply integrate AI tools across all business functions from day one.
 
-Their philosophy prioritizes capital efficiency and agility, maintaining a small core team skilled in AI augmentation to automate tasks and amplify human capabilities.
+Their philosophy prioritises capital efficiency and agility, maintaining a small core team skilled in AI augmentation to automate tasks and amplify human capabilities.
 
 ---
 
@@ -68,11 +68,22 @@ Their philosophy prioritizes capital efficiency and agility, maintaining a small
 
 ## Marketing - VeriCask StandardBuild
 
+
 <div class="headcount">StandardBuild: 5 people</div>
 
-### The Traditional Approach
+<!-- _class: split -->
 
-**Manual.** Dedicated marketing staff create blogs, social posts, and PR campaigns through traditional creative processes and channel outreach.
+<div class="ldiv">
+
+![Traditional Marketing Team](traditional-marketing.jpeg)
+
+</div>
+
+<div class="rdiv">
+
+Dedicated marketing staff create blogs, social posts, and PR campaigns through traditional creative processes and channel outreach.
+
+</div>
 
 ---
 
@@ -80,29 +91,35 @@ Their philosophy prioritizes capital efficiency and agility, maintaining a small
 
 <div class="headcount">AI-Optima: 1 person</div>
 
-### The AI-Powered Approach
+One marketing lead uses AI to repurpose content, generate tweets, refine blog posts, and create steady content streams with minimal manual intervention.
 
-**Automated.** One marketing lead uses AI to repurpose content, generate tweets, refine blog posts, and create steady content streams with minimal manual intervention.
+<img src="ai-marketing.jpeg" alt="AI-powered marketing workflow" class="core-question-image">
 
 ---
 
-## Internal Operations - VeriCask StandardBuild
+## Internal Operations
 
-<div class="headcount">StandardBuild: 8 people</div>
+<!-- _class: split -->
+
+<div class="ldiv">
+
+<div class="headcount-left">StandardBuild: 8 people</div>
 
 ### The Traditional Approach
 
-**Manual.** Founders and admin staff handle email drafting, legal reviews, expense tracking, invoicing, and pitch deck preparation through traditional human-intensive processes.
+Founders and admin staff handle email drafting, legal reviews, expense tracking, invoicing, and pitch deck preparation through traditional human-intensive processes.
 
----
+</div>
 
-## Internal Operations - VeriCask AI-Optima
+<div class="rdiv">
 
-<div class="headcount">AI-Optima: 1 person</div>
+<div class="headcount-right">AI-Optima: 1 person</div>
 
 ### The AI-Powered Approach
 
-**Automated.** Core founders use AI assistants for email drafting, contract reviews, pitch deck preparation, expense categorization, invoice processing, and documentation creation.
+Core founders use AI assistants for email drafting, contract reviews, pitch deck preparation, expense categorization, invoice processing, and documentation creation.
+
+</div>
 
 ---
 
@@ -110,9 +127,21 @@ Their philosophy prioritizes capital efficiency and agility, maintaining a small
 
 <div class="headcount">StandardBuild: 14 people</div>
 
+<!-- _class: split -->
+
+<div class="ldiv">
+
+<img src="standard-build.jpeg" alt="Traditional UI development team" style="max-width: 100%; height: auto;">
+
+</div>
+
+<div class="rdiv">
+
 ### The Traditional Approach
 
-**Manual.** UI/UX designers and front-end developers follow established design sprints and development timelines with iterative design-development cycles.
+UI/UX designers and front-end developers follow established design sprints and development timelines with iterative design-development cycles.
+
+</div>
 
 ---
 
@@ -120,69 +149,99 @@ Their philosophy prioritizes capital efficiency and agility, maintaining a small
 
 <div class="headcount">AI-Optima: 3 people</div>
 
+<!-- _class: split -->
+
+<div class="ldiv">
+
 ### The AI-Powered Approach
 
-**Accelerated.** UI/UX developers use AI-assisted builders like Firebase Studio for rapid prototyping, with AI generating components and suggesting layouts.
+UI/UX developers use AI-assisted builders like Firebase Studio for rapid prototyping, with AI generating components and suggesting layouts.
+
+</div>
+
+<div class="rdiv">
+
+<img src="firebase-studio.png" alt="Firebase Studio AI-assisted UI development" style="max-width: 100%; height: auto;">
+
+</div>
 
 ---
 
-## Building the Backend - VeriCask StandardBuild
+## Building the Backend
 
-<div class="headcount">StandardBuild: 18 people</div>
+<!-- _class: split -->
+
+<div class="ldiv">
+
+<div class="headcount-left">StandardBuild: 18 people</div>
 
 ### The Traditional Approach
 
-**Manual.** Backend developers manually write, debug, and test code with extensive human effort for core functionality and traditional code review processes.
+Backend developers manually write, debug, and test code with extensive human effort for core functionality and traditional code review processes.
 
----
+</div>
 
-## Building the Backend - VeriCask AI-Optima
+<div class="rdiv">
 
-<div class="headcount">AI-Optima: 6 people</div>
+<div class="headcount-right">AI-Optima: 6 people</div>
 
 ### The AI-Powered Approach
 
-**AI-Accelerated.** Backend developers use GitHub Copilot and AI coding agents to assist in code generation, debugging, and building secure ledger components.
+Backend developers use GitHub Copilot and AI coding agents to assist in code generation, debugging, and building secure ledger components.
+
+</div>
 
 ---
 
-## Testing - VeriCask StandardBuild
+## Testing & Quality Assurance
 
-<div class="headcount">StandardBuild: 22 people</div>
+<!-- _class: split -->
+
+<div class="ldiv">
+
+<div class="headcount-left">StandardBuild: 22 people</div>
 
 ### The Traditional Approach
 
-**Manual.** Dedicated QA testers manually create test cases, execute testing plans, and conduct time-intensive testing cycles with significant human effort.
+Dedicated QA testers manually create test cases, execute testing plans, and conduct time-intensive testing cycles with significant human effort.
 
----
+</div>
 
-## Testing - VeriCask AI-Optima
+<div class="rdiv">
 
-<div class="headcount">AI-Optima: 6 people</div>
+<div class="headcount-right">AI-Optima: 6 people</div>
 
 ### The AI-Powered Approach
 
-**Automated.** Developers use Playwright with Meta Test Pilot and AI-powered testing environments for automated test generation, execution, and coverage expansion.
+Developers use Playwright with Meta Test Pilot and AI-powered testing environments for automated test generation, execution, and coverage expansion.
+
+</div>
 
 ---
 
-## Customer Support - VeriCask StandardBuild
+## Customer Support
 
-<div class="headcount">StandardBuild: 25 people</div>
+<!-- _class: split -->
+
+<div class="ldiv">
+
+<div class="headcount-left">StandardBuild: 25 people</div>
 
 ### The Traditional Approach
 
-**Manual.** Dedicated support staff manually set up channels, create knowledge bases, and handle time-consuming customer response workflows.
+Dedicated support staff manually set up channels, create knowledge bases, and handle time-consuming customer response workflows.
 
----
+</div>
 
-## Customer Support - VeriCask AI-Optima
+<div class="rdiv">
 
-<div class="headcount">AI-Optima: 6 people</div>
+<div class="headcount-right">AI-Optima: 6 people</div>
 
 ### The AI-Powered Approach
 
-**AI-Powered.** AI agents generate FAQs from documentation and manage calls and support tickets, with the core team handling only escalations.
+AI agents generate FAQs from documentation and manage calls and support tickets, with the core team handling only escalations.
+
+</div>
 
 ---
 
@@ -223,293 +282,45 @@ Their philosophy prioritizes capital efficiency and agility, maintaining a small
 
 ## Navigating Growth: Scaling Challenges
 
-**As companies move beyond MVP, new foundational elements become crucial:**
+At Create Future, we usually see three broad areas that need attention when companies hit a certain point in their scaling:
 
-* Strategy and execution frameworks
-* Operational enablement and infrastructure
-* Quality assurance and governance
-* Security and compliance measures
+* Strategy and Direction
+* Delivery and Execution
+* Foundations and Enablement
 
-[TODO - Update these with our playbook frameworks]
 
 ---
 
-## Navigating Growth: Universal Requirements
+## Some things stay the same 
 
-### Foundational Necessities for Both Companies
-
-* **North Star & Product Strategy:**
-  * Clear vision for VeriCask and coherent product strategy
-  * Market positioning and prioritization guidance
-
-* **Cloud Architecture:**
-  * Robust, scalable, secure architecture for ChainTrace
-  * Infrastructure to support growing customer base
-
-* **Platform Security:**
-  * Protection of VeriCask platform and ChainTrace ledger
-  * Customer data security and compliance
+* **North Star & Product Strategy** - Clear vision for VeriCask and coherent product strategy with market positioning and prioritization guidance.
+* **Cloud Architecture** - Robust, scalable, secure architecture for ChainTrace with infrastructure to support growing customer base.
+* **Platform Security** - Protection of VeriCask platform and ChainTrace ledger with customer data security and compliance.
 
 ---
 
-## Growth Differences: Business Goals - VeriCask StandardBuild
+## But there are differences too...
 
-### Traditional Approach to Business Goals & Outcomes
+* Goals and outcomes - Smaller businesses will find it significantly easier to align their businesses around certain goals. 
+* Engineering practices - Smaller teams will find it much easier to align on engineering practices, and AI can help with definition, implementation and enforcement of everything from CI/CD to coding practices.
+* Tech stacks - A key driver for changing tech-stacks is scaling across a number of different teams and hiring for certain skills. AI makes it easier to make the shift, makes skills less important and keeps teams smaller to delay the decision
+--- 
 
-* **Requirements:** Formal processes and management layers needed
-* **Communication:** Significant effort required for larger teams
-* **Goal Cascading:** Complex hierarchical communication structures
-* **Progress Tracking:** Manual reporting and status meetings
+## And some you don't worry about at all...
 
-**Challenges:**
-* Information silos between departments
-* Slower decision-making processes
-* Higher management overhead
-
+* One of the biggest headaches for a scale-up is organisation design and 'Scaling teams' 
+* Time spent re-drawing org charts and learning what a platform team is, and how it's different from the spotify model is time not providing value to the business
+* Smaller teams get longer without hitting that pain point, and may chose never to get to it 
 ---
 
-## Growth Differences: Business Goals - VeriCask AI-Optima
+## Key Takeaways
 
-### AI-Powered Approach to Business Goals & Outcomes
+### The AI Advantage in Startup Scaling
 
-* **Simplified Structure:** Goal definition and tracking **less complex** with smaller team
-* **AI Enhancement:** AI assists in dynamic progress tracking
-* **Real-time Insights:** Automated data aggregation and analysis
-* **Agile Decision Making:** Faster pivots based on AI-processed data
-
-**Advantages:**
-* Reduced communication complexity
-* Data-driven decision making
-* Rapid response to market changes
-
----
-
-## Growth Differences: Engineering - VeriCask StandardBuild
-
-### Traditional Engineering Practices
-
-* **Manual Processes:** Traditional code reviews across growing dev teams
-* **Consistency Challenges:** Significant ongoing effort for standards enforcement
-* **Quality Assurance:** Dedicated QA teams and manual testing processes
-* **Documentation:** Manual creation and maintenance of technical docs
-
-**Scaling Challenges:**
-* Maintaining code quality with larger teams
-* Coordination across multiple development streams
-* Knowledge transfer and onboarding complexity
-
----
-
-## Growth Differences: Engineering - VeriCask AI-Optima
-
-### AI-Enhanced Engineering Practices
-
-* **Automated Standards:** **AI assistants enforce coding standards**
-* **Enhanced Reviews:** Automate code reviews and accelerate refactoring
-* **AI-Powered Testing:** Automated test generation and execution
-* **Intelligent Documentation:** AI-assisted technical documentation
-
-**Scaling Advantages:**
-* Consistent code quality regardless of team size
-* Faster development cycles
-* Reduced manual oversight requirements
-
----
-
-## Growth Differences: Tech Stack - VeriCask StandardBuild
-
-### Traditional Tech Stack Strategy
-
-* **Constraint-Based Decisions:** Influenced by existing team skills
-* **Change Resistance:** Technology changes are slower and costlier
-* **Skill Dependencies:** Limited by available human expertise
-* **Conservative Approach:** Proven technologies preferred
-
-**Characteristics:**
-* Stability and predictability
-* Higher switching costs
-* Skill-based technology limitations
-
----
-
-## Growth Differences: Tech Stack - VeriCask AI-Optima
-
-### AI-Enhanced Tech Stack Strategy
-
-* **Flexible Strategy:** More adaptable technology choices
-* **Rapid Exploration:** AI tools help explore new tech faster
-* **Reduced Constraints:** Less limited by human skill availability
-* **Innovation-Friendly:** Easier adoption of cutting-edge technologies
-
-**Characteristics:**
-* Enhanced technological agility
-* Faster technology evaluation
-* Reduced dependency on specific human skills
-
----
-
-## Early Growth: Scaling - VeriCask StandardBuild
-
-<div class="headcount">StandardBuild: 45+ people</div>
-
-### Traditional Scaling Strategy
-
-* **Hiring Focus:** Hire more specialists across all functions
-* **Headcount Growth:** **~35-45+ people**
-* **Department Expansion:** Marketing, operations, development, testing, support
-
-**Key Challenges:**
-* High burn rate and cash requirements
-* Complex onboarding processes
-* Maintaining culture and coordination
-* Management layer requirements
-
----
-
-## Early Growth: Scaling - VeriCask AI-Optima
-
-<div class="headcount">AI-Optima: 12 people</div>
-
-### AI-Powered Scaling Strategy
-
-* **Capability Focus:** Scale AI capabilities and strategic hires
-* **Headcount Growth:** **~10-12 people**
-* **AI-First Expansion:** Enhanced tools rather than teams
-
-**Key Challenges:**
-* AI quality control and oversight
-* Avoiding AI "hallucinations" and errors
-* Tool complexity management
-* Finding AI-skilled talent
-
----
-
-## Crisis Point: Massive Demand - VeriCask StandardBuild
-
-<div class="headcount">StandardBuild: 75+ people</div>
-
-### Traditional Response to Demand Surge
-
-*Scenario: **Scotch Whisky Association mandates ChainTrace authentication** for all premium bottles (£500+) after major counterfeiting scandal*
-
-* **Team Size:** **~50-75+ people**
-* **Crisis Response:**
-  * All departments overwhelmed by distillery integration requests
-  * Cannot hire fast enough for whisky industry expertise
-  * Quality drops, burnout increases
-  * Slow process adaptation to industry compliance requirements
-
-<div class="key-problem"><p><strong>Key Problem:</strong> Headcount-scaling cannot react quickly to massive demand surge from whisky industry adoption.</p></div>
-
----
-
-## Crisis Point: Massive Demand - VeriCask AI-Optima
-
-<div class="headcount">AI-Optima: 20 people</div>
-
-### AI-Powered Response to Demand Surge
-
-*Scenario: **Scotch Whisky Association mandates ChainTrace authentication** for all premium bottles (£500+) after major counterfeiting scandal*
-
-* **Team Size:** **~15-20 people**
-* **Crisis Response:**
-  * Test AI workflow scalability for distillery onboarding
-  * Lean team manages AI tools and infrastructure integration
-  * Some AI systems overwhelmed by complex whisky provenance queries
-  * AI assists in rapid compliance documentation generation
-
-<div class="key-problem"><p><strong>Key Problem:</strong> Testing AI-augmented process resilience under extreme load from industry-wide whisky authentication requirements.</p></div>
-
----
-
-## Post-Crisis: AI-Optima's Strategic Scaling
-
-<div class="headcount">AI-Optima: 25 people</div>
-
-### Platform & Operations Response
-
-* **Platform Scaling:** AI analyzes performance bottlenecks and suggests optimizations
-* **Operational Scaling:** Enhanced AI tool usage across all functions
-* **Strategic Hiring:** Key specialists for AI operations and client integrations
-* **New Headcount:** **~20-25 people**
-
-### Key Challenges:
-* AI tool management and governance at scale
-* Data privacy and security for AI systems
-* Finding senior talent for AI-augmented teams
-* Managing effective "human-AI teaming"
-
----
-
-## AI-First Security Strategy
-
-<div class="headcount">AI-Optima: 28 people</div>
-
-### Addressing Security in an AI-Augmented World
-
-* **Focus Areas:**
-  * Securing AI development pipelines
-  * Protecting training data integrity
-  * Security of AI-generated code
-  * **Robust ChainTrace platform protection for high-value whisky records**
-  * **Preventing sophisticated whisky counterfeiting attempts**
-
-* **Response Strategy:**
-  * Hire AI security specialists with blockchain/authentication expertise
-  * Leverage AI for threat detection and automated security scanning
-  * Implement rigorous MLOps with security focus
-  * **AI-powered detection of fraudulent whisky authentication attempts**
-
-* **Headcount:** **~25-28 people**
-
----
-
-## AI-Augmented Product Strategy
-
-<div class="headcount">AI-Optima: 30 people</div>
-
-### Defining the Future with AI Insights
-
-* **Method:**
-  * AI analyzes market trends and customer feedback at scale
-  * Pattern identification for emerging ChainTrace needs
-  * AI assists in drafting PRDs and user stories
-
-* **Team Addition:** 1-2 experienced PMs skilled in AI-augmented strategy
-* **Headcount:** **~28-30 people**
-
-### Challenge:
-Effectively blending AI insights with human strategic vision while keeping product team lean.
-
----
-
-## The New Normal: AI-First Operation
-
-<div class="headcount">AI-Optima: 40 people</div>
-
-### VeriCask AI-Optima's Evolved Structure
-
-* **Core Philosophy:** Lean, highly skilled team with AI deeply embedded in all workflows
-* **Scaling Approach:** Focus on individual effectiveness and capabilities via AI
-* **Company Profile (~30-40 people):**
-  * Highly efficient and agile operation
-  * Sophisticated platform development and support
-  * Dramatically lower operational costs
-  * Strong capital efficiency and rapid adaptation
-
----
-
-## Key Takeaways: The AI Multiplier Effect
-
-### VeriCask AI-Optima's Journey
-
-* **AI-First Philosophy** enables building complex platforms with dramatically leaner teams
-* **Scaling Pressures Shift** from needing more people to needing smarter tools and specialized skills
-* **Results:** Greater capital efficiency, faster innovation, enhanced agility
-
-### Overall Message:
-**AI, strategically integrated into company operations, fundamentally redefines scaling. It enables creation of complex tech solutions like VeriCask with unprecedented efficiency and capital effectiveness – a transformative alternative to traditional headcount-driven growth.**
-
+* **Dramatic Team Size Reduction:** AI-powered approach requires ~70% fewer people (8 vs 25+ for MVP)
+* **Faster Time-to-Market:** AI tools enable rapid prototyping, automated testing, and streamlined workflows
+* **Capital Efficiency:** Lower burn rate through reduced headcount and operational overhead
+* **Quality at Scale:** AI assists in maintaining quality while moving faster with smaller teams
 ---
 
 ## Questions?
@@ -535,7 +346,10 @@ hello@createfuture.com | createfuture.com
   font-size: 14px;
   font-weight: bold;
   color: #ea9a97;
+  z-index: 10;
 }
+
+
 
 .vericask-logo {
   position: absolute;
@@ -551,5 +365,101 @@ hello@createfuture.com | createfuture.com
   padding: 12px;
   margin: 16px 0;
   border-radius: 4px;
+}
+
+/* Custom styling for split slides */
+.columns {
+  display: flex;
+  gap: 20px; /* Adjust spacing between columns */
+}
+.column {
+  flex: 1;
+}
+
+/* Grid-based split slide layout */
+section.split {
+  overflow: visible;
+  display: grid;
+  /* grid-template-columns: 500px 500px; */
+  /* grid-template-rows: 100px auto; */
+  grid-template-areas: 
+      "slideheading slideheading"
+      "leftpanel rightpanel";
+}
+
+section.split h2 {
+  grid-area: slideheading;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+section.split .ldiv { 
+  grid-area: leftpanel;
+  padding: 10px;
+}
+
+section.split .rdiv { 
+  grid-area: rightpanel;
+  padding: 10px;
+}
+
+/* Position headcount in the top right corner for split slides */
+section.split .headcount {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background: rgba(25, 23, 36, 0.1);
+  border: 2px solid #ea9a97;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ea9a97;
+  z-index: 10;
+}
+
+/* Position headcount in the left panel for split slides */
+section.split .headcount-left {
+  position: relative;
+  top: -10px;
+  right: 0px;
+  background: rgba(25, 23, 36, 0.1);
+  border: 2px solid #ea9a97;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ea9a97;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+/* Position headcount in the right panel for split slides */
+section.split .headcount-right {
+  position: relative;
+  top: -10px;
+  right: 0px;
+  background: rgba(25, 23, 36, 0.1);
+  border: 2px solid #ea9a97;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ea9a97;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+/* Rounded corners for all images */
+img {
+  border-radius: 15px;
+}
+
+/* Core question image styling */
+.core-question-image {
+  max-width: 60%;
+  height: auto;
+  margin: 20px auto;
+  display: block;
 }
 </style>
