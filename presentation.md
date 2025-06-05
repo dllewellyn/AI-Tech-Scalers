@@ -199,9 +199,10 @@ The focus is on using AI for volume and initial creation, with the human element
 
 ---
 
+<!-- _class: split -->
 ## Internal Operations
 
-<div class="div">
+<div class="ldiv">
 
 <div class="headcount-left">StandardBuild: 4 people</div>
 
@@ -236,11 +237,13 @@ AI-Powered: Most work can be done by AI. Streamline processes like legal oversig
 
 ---
 
+<!-- _class: split -->
 ## Building the UI - VeriCask StandardBuild
+
+<div class="ldiv">
 
 <div class="headcount">StandardBuild: 11 people</div>
 
-<div class="ldiv">
 
 <img src="standard-build.jpeg" alt="Traditional UI development team" style="max-width: 100%; height: auto;">
 
@@ -311,6 +314,7 @@ We're building our advanced Github co-pilot training at the moment, and producti
 
 ---
 
+<!-- _class: split -->
 ## Building the Backend
 
 <div class="ldiv">
@@ -348,6 +352,7 @@ This significantly shrinks the number of people needed for software development.
 
 ---
 
+<!-- _class: split -->
 ## Testing & Quality Assurance
 
 <div class="ldiv">
@@ -383,6 +388,7 @@ Our Github co-pilot training puts emphasis on trying out BDD, TDD and getting ag
 
 ---
 
+<!-- _class: split -->
 ## Customer Support
 
 <div class="ldiv">
@@ -422,6 +428,7 @@ While lean traditional startups might not have dedicated support, the workload o
 
 ---
 
+<!-- _class: split -->
 ## Summary: Two Approaches to Building VeriCask
 
 <div class="ldiv">
