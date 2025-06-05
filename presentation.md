@@ -11,8 +11,13 @@ footer: 'The Shifting Sands of Startup Scaling --- CreateFuture @ Glasgow Tech M
 <p>CreateFuture<br/>Glasgow Tech Meetup</p>
 
 <!--
+Introduction (0:01 - 0:38)
 Welcome everyone. Thanks for coming.
-Tonight, we're diving into a really exciting topic: how Artificial Intelligence is fundamentally reshaping the journey of tech startups, particularly when it comes to scaling.
+Tonight, we're diving into how Artificial Intelligence is fundamentally reshaping the journey of tech startups, particularly when it comes to scaling.
+
+Topic: How AI is changing the face of startup scaling.
+Focus: Impact of early AI adoption on startup journey, team sizes, approaches, and scaling pivot point.
+
 We'll explore the shifts in strategies, team structures, and the overall speed at which companies can now grow.
 -->
 
@@ -27,13 +32,17 @@ We'll explore the shifts in strategies, team structures, and the overall speed a
 * **Key Phases:** MVP development and scaling challenges
 
 <!--
+Traditional vs. AI-Native Startups (0:38 - 1:29)
 To make this tangible, we'll follow the journey of two fictitious companies.
 Both are tasked with building the exact same product, but they'll take radically different paths to get there. 
 
 One will use a traditional, well-trodden startup approach. The other will embrace AI from the very beginning.
 
-it's worth saying that when we say well trodden, were talking about the type of approach with such speed and agility that bigger companies can only dream of
+It's worth saying that when we say well trodden, we're talking about the type of approach with such speed and agility that bigger companies can only dream of.
 
+Traditional startup agility is envied by larger companies. However, this is no longer the pinnacle. An "AI-native" build is emerging, challenging modern startup approaches.
+
+Methodology: Two Fictitious Companies (1:30 - 2:09)
 We'll look at how they tackle building their Minimum Viable Product, or MVP, and then consider the distinct scaling challenges each approach presents.
 -->
 
@@ -52,7 +61,7 @@ We're not just looking at incremental changes. We're asking: How does AI fundame
 
 How can we expect AI-powered companies to work at the start, and what does it mean for their future scaling.
 
-This is a really exciting area, because as with traditional startups - they're not encumbred with the debt and processes of bigger companies and so they'll find it much easier to adopt the type of approach were going to discuss
+This is a really exciting area, because as with traditional startups - they're not encumbered with the debt and processes of bigger companies and so they'll find it much easier to adopt the type of approach we're going to discuss
 -->
 
 ---
@@ -65,9 +74,11 @@ This is a really exciting area, because as with traditional startups - they're n
 ChainTrace is a whisky authentication platform using secure NFC tags and digital certificates. It tracks each bottle's complete journey from distillation to consumer, enabling instant verification via smartphone and protecting collectors' investments through tamper-proof provenance records.
 
 <!--
+Fictitious Product: Chain Trace (2:10 - 2:37)
 Let's introduce our product: ChainTrace, developed by the (fictitious) company VeriCask.
-Imagine a high-end solution for a niche market: authenticating expensive bottles of whisky.
-ChainTrace uses secure NFC tags embedded in the bottles and digital certificates on a blockchain to track a bottle's entire journey. Consumers can then instantly verify authenticity with their smartphone, protecting their investment. It’s about tamper-proof provenance.
+
+Imagine a high-end solution for a niche market: authenticating expensive bottles of whisky. ChainTrace authenticates expensive whiskey bottles using blockchain and NFC tags.
+
 -->
 
 ---
@@ -77,23 +88,35 @@ ChainTrace uses secure NFC tags embedded in the bottles and digital certificates
 **StandardBuild** follows the conventional tech startup playbook: secure funding, hire specialists for each function, and build teams around established DevOps and Agile practices.
 
 <!--
+Company Approaches (2:38 - 3:46)
 Our first company, "VeriCask StandardBuild," takes the traditional route.
-Think of the classic startup playbook: First, secure seed funding. Then, hire specialist teams for each key function – marketing, engineering, operations, etc.
-They'll build their processes around established methodologies like DevOps and Agile, focusing on human expertise to drive development.
+
+Traditional Approach:
+- Hire specialists for each function and build teams around DevOps/agile
+- Follow Lean Startup model
+- Secure startup funding
+
+Think of the classic startup playbook: First, secure seed funding. Then, hire specialist teams for each key function – marketing, engineering, operations, etc. They'll build their processes around established methodologies like DevOps and Agile, focusing on human expertise to drive development.
 -->
 
 ---
 
 ## VeriCask AI-Optima: The AI-Powered Approach
 
-**AI-Optima** takes a radically different path: deeply integrate AI tools across all business functions from day one.
+**AI-Optima** takes a different path: deeply integrate AI tools across all business functions from day one.
 
 Their philosophy prioritises capital efficiency and agility, maintaining a small core team skilled in AI augmentation to automate tasks and amplify human capabilities.
 
 <!--
-Now, meet "VeriCask AI-Optima." They're taking a completely different path.
-Their strategy is to embed AI tools and processes deeply into every business function right from the start.
-The core philosophy here is capital efficiency and extreme agility. This means maintaining a very small, core team where individuals are skilled in using AI to augment their own capabilities, automate tasks, and achieve more with less.
+Now, meet "VeriCask AI-Optima." They're taking a different path.
+
+AI-Powered Approach:
+- Embed AI tools, practices, and processes from day one
+- Focus on capital efficiency and small headcount
+- Maintain agility with a small team skilled in AI augmentation
+- Higher tool cost, but smaller headcount
+
+Their strategy is to embed AI tools and processes deeply into every business function right from the start. The core philosophy here is capital efficiency and extreme agility. This means maintaining a very small, core team where individuals are skilled in using AI to augment their own capabilities, automate tasks, and achieve more with less.
 They anticipate higher tool costs but a significantly smaller human headcount.
 -->
 
@@ -111,14 +134,16 @@ They anticipate higher tool costs but a significantly smaller human headcount.
 * Customer Support
 
 <!--
+Comparison Areas (3:47 - 4:14)
 So, let's put these two hypothetical companies side-by-side and examine how they might approach building out their MVP.
+
 We'll look at six key operational areas that are crucial in the early lifecycle of a startup:
-Marketing and how they create content.
-Internal operations – the admin, finance, legal side of things.
-How they approach UI development.
-Backend engineering.
-Testing and quality assurance.
-And finally, customer support.
+- Marketing and content creation
+- Internal operations – the admin, finance, legal side of things
+- UI development  
+- Backend engineering
+- Testing and quality assurance
+- And finally, customer support
 -->
 
 ---
@@ -140,10 +165,16 @@ Dedicated marketing staff create blogs, social posts, and PR campaigns through t
 </div>
 
 <!--
-First up, marketing. For StandardBuild, we're looking at a typical setup.
+Marketing & Content Creation (4:15 - 5:59)
+Standard Build (Traditional): ~2 dedicated marketing staff.
+
+First up, marketing. For StandardBuild, we're looking at a typical setup. 
+
 They'd likely hire a couple of dedicated marketing professionals.
-These individuals would be responsible for creating blogs, managing social media, running PR campaigns, perhaps organizing events, and leveraging their media contacts.
-It's a human-driven, often labor-intensive process, relying on traditional creative workflows and outreach.
+
+These individuals would be responsible for creating blogs, managing social media, running PR campaigns, organizing events, leveraging media contacts, and publicising founders. 
+
+It's a human-driven, often labor-intensive process, relying on traditional creative workflows and outreach - essentially a volume game, but during work hours.
 -->
 
 ---
@@ -157,10 +188,13 @@ One marketing lead uses AI to repurpose content, generate tweets, refine blog po
 <img src="ai-marketing.jpeg" alt="AI-powered marketing workflow" class="core-question-image">
 
 <!--
-AI-Optima, on the other hand, approaches marketing very differently.
-They might have just one marketing lead, or perhaps even a founder taking this on initially.
-This person would leverage AI tools extensively – think tools like Jasper.ai or similar platforms – to generate first drafts of blog posts, white papers, repurpose content across different social media channels, and even schedule posts.
-The focus is on using AI for volume and initial creation, with the human element providing curation, strategic oversight, and refinement. This creates a steady content stream with far less manual effort.
+AI-Enabled Marketing: Potentially no dedicated marketing lead initially (founders can do it).
+
+AI-Optima approaches marketing very differently. They might have just one marketing lead, or perhaps even a founder taking this on initially.
+
+This person would leverage AI tools extensively – think tools like Jasper.ai for white papers, blog posts, repurposing content, social media scheduling. You can outsource marketing to AI for volume.
+
+The focus is on using AI for volume and initial creation, with the human element providing curation, strategic oversight, and refinement. Adding one person to curate AI content adds significant value. This creates a steady content stream with far less manual effort.
 -->
 
 ---
@@ -183,13 +217,20 @@ Founders and admin staff handle email drafting, legal reviews, expense tracking,
 
 ### The AI-Powered Approach
 
-Core founders use AI assistants for email drafting, contract reviews, pitch deck preparation, expense categorization, invoice processing, and documentation creation.
+Founders use AI assistants to handle payroll, writing slides, reviewing legal agreements, drafting security policies and privacy statements... 
 
 </div>
 
 <!--
+Internal Operations (6:34 - 7:38)
 Moving to internal operations – all the essential background tasks.
+
+Traditional: Often outsourced, but can still require ~2 people for legal reviews, drafting, expenses, invoicing, pitch decks, payroll, office management.
+
 **StandardBuild** would likely rely on founders and administrative staff. This team of around four would manually handle tasks like drafting emails, initial legal document reviews, tracking expenses, processing invoices, and preparing pitch decks. As they grow, they'd also take on payroll, HR, and compliance manually, which adds to overhead.
+
+AI-Powered: Most work can be done by AI. Streamline processes like legal oversight. Feasibly reduce headcount from 2 to 1.
+
 **AI-Optima** aims for much leaner operations with perhaps two people. The core team would use AI assistants for many of these tasks: drafting emails, getting AI to perform initial contract reviews or highlight areas of concern, generating first drafts of pitch decks, automating expense categorization and invoice processing, and even assisting with creating internal documentation.
 -->
 
@@ -209,14 +250,23 @@ Moving to internal operations – all the essential background tasks.
 
 ### The Traditional Approach
 
-UI/UX designers and front-end developers follow established design sprints and development timelines with iterative design-development cycles.
+Designers and front-end developers go through the 5 stages of design thinking, prototyping and testing figmas with their users before handing off to frontend-developers for implementation. 
 
 </div>
 
 <!--
+UI Development (7:39 - 10:13)
 Now let's look at building the user interface.
+
+Traditional: ~1-2 UX designers, 4-5 front-end developers.
+
 For **StandardBuild**, this is a significant team effort. We're estimating around 11 people, including UI/UX designers and front-end developers.
-They follow established processes: design sprints, user research, creating wireframes and mockups (perhaps in Figma), and then a handoff to front-end developers who implement the designs in code, using frameworks like React or Vue. This involves iterative cycles of design, development, and feedback.
+
+They follow established processes: customer research, design sprints, user research, creating wireframes and mockups, and then a handoff to front-end developers who implement the designs in code. 
+
+This involves iterative cycles of design, development, and feedback.
+
+As with any handoff, there's a high-degree of friction in this process. 
 -->
 
 ---
@@ -229,7 +279,7 @@ They follow established processes: design sprints, user research, creating wiref
 
 ### The AI-Powered Approach
 
-UI/UX developers use AI-assisted builders like Firebase Studio for rapid prototyping, with AI generating components and suggesting layouts.
+Designers and developers use AI-assisted builders like Firebase Studio, Bolt etc for rapid prototyping, with AI generating components and suggesting layouts.
 
 </div>
 
@@ -240,9 +290,23 @@ UI/UX developers use AI-assisted builders like Firebase Studio for rapid prototy
 </div>
 
 <!--
-**AI-Optima** can achieve this with a much smaller team, say around 5 people.
-Their UI/UX developers would leverage AI-assisted builders. The slide mentions Firebase Studio, but think of tools like Framer's AI, Vercel's v0.dev, or others that allow for rapid prototyping where AI can generate components, suggest layouts, and even create interactive prototypes quickly.
-This allows for faster iteration, getting working concepts in front of users much sooner, and reducing the traditional handoff friction between design and development. While skilled developers are still needed for robust, production-ready code, the initial build and iteration are drastically accelerated.
+AI-Powered: Tools like Replit, Firebase Studio allow faster iteration and working prototypes directly to clients.
+
+**AI-Optima** can achieve this with a much smaller team, say around 5 people.  
+
+Initial research could be done with synthetic data and AI to give early feedback. 
+
+Their Designers would leverage AI-assisted builders, generate working prototypes with analytics and test those with real-users much quicker. 
+
+Think of tools like Vercel's v0.dev, bolt, firebase studio and others.
+
+This reduces cycles (e.g., validating ideas with fake landing pages is easier). Reduces handoff friction between design and development.
+
+Not necessarily replacing all front-end developers, but streamlines the process from UI design to functional code.
+
+Feasibly reduce team to ~3 people with mixed UI/UX and front-end skills. While skilled developers are still needed for robust, production-ready code, the initial build and iteration are drastically accelerated. 
+
+We're building our advanced Github co-pilot training at the moment, and productioning 'vibe coded' frontends is part of it.
 -->
 
 ---
@@ -270,9 +334,16 @@ Backend developers use GitHub Copilot and AI coding agents to assist in code gen
 </div>
 
 <!--
+Backend Development (10:14 - 11:44)
 For the backend, the engine room of the platform:
+
+Traditional vs. AI-Powered: Less dissimilar here in the actual work, but AI tools like GitHub Copilot can significantly assist code generation (conservative estimate of 50% time saving in early phases), but realistically I think it's much, much bigger
+
 **StandardBuild** would have a substantial team of around 18 backend developers. They're manually writing, debugging, and testing all the code. This involves a lot of human effort for building core functionality, APIs, database interactions, and going through traditional code review processes.
-**AI-Optima** operates with a leaner backend team of about 11. Their developers are heavily augmented by AI. They use tools like GitHub Copilot for real-time code suggestions and generation. More advanced AI coding agents can assist with debugging, writing tests, and even scaffolding complex components like those needed for a secure ledger system. AI helps them write better code faster, and understand new domains or libraries more quickly.
+
+**AI-Optima** operates with a leaner backend team. Their developers are heavily augmented by AI. Copilot can handle complex tasks, improve tests, scope features (e.g., blockchain implementation paths), suggest libraries, fix bugs. They can use jules or similar tools to fix smaller issues and minor refactors, automate code reviews and use agents to perform bigger refactors.
+
+This significantly shrinks the number of people needed for software development. AI helps them write better code faster, and understand new domains or libraries more quickly.
 -->
 
 ---
@@ -299,9 +370,15 @@ Only 1 dedicated QA specialist, with the rest of the team using AI-powered testi
 </div>
 
 <!--
-Testing and QA is critical.
-**StandardBuild** would likely have a dedicated team of QA testers, bringing their total here to around 21. These testers manually create detailed test cases, execute testing plans across different scenarios, and conduct thorough, but time-intensive, testing cycles.
-**AI-Optima**, with a team of about 12 in this area (this could be 1 QA specialist and developers empowered by AI tools), relies heavily on AI-powered testing. They might have one dedicated QA specialist focused on strategy and implementing AI testing tools like Playwright (which has excellent AI/codegen features, especially with Copilot) or LambdaTest. These tools can automate test generation from specifications or existing code, execute tests rapidly, and help expand test coverage significantly, reducing manual effort.
+Testing & QA (11:45 - 12:59)
+
+Traditional: Maybe a testing team of 3 for a startup.
+
+**StandardBuild** would likely have a dedicated team of QA testers, bringing their total here to around 21. These testers manually create detailed test cases, execute testing plans across different scenarios, and conduct thorough, but time-intensive, testing cycles. Even more forward-thinking startups will have time dedicated to automated testing, so even if they don't have dedicated testers they'll likely still have time spent by developers on automation.
+
+**AI-Optima**, a team that relies heavily on AI-powered testing. They might have one dedicated QA specialist focused on strategy and implementing AI testing tools like Playwright or LambdaTest. These tools can automate test generation from specifications or existing code, execute tests rapidly, and help expand test coverage significantly, reducing manual effort.
+
+Our Github co-pilot training puts emphasis on trying out BDD, TDD and getting agents to do take a blue-green testing approach which gets you some really amazing test coverage and generally good code produced.
 -->
 
 ---
@@ -314,7 +391,7 @@ Testing and QA is critical.
 
 ### The Traditional Approach
 
-Dedicated support staff manually set up channels, create knowledge bases, and handle time-consuming customer response workflows.
+Dedicated support staff manually set up channels, creating knowledge bases, and handle time-consuming customer response workflows.
 
 </div>
 
@@ -324,14 +401,23 @@ Dedicated support staff manually set up channels, create knowledge bases, and ha
 
 ### The AI-Powered Approach
 
-AI agents generate FAQs from documentation and manage calls and support tickets, with the core team handling only escalations.
+Documentation generated by AI from existing artifacts which is used to generate FAQs, manage calls and support tickets, fixing minor bugs, with the core team handling only escalations.
 
 </div>
 
 <!--
+Customer Support (13:00 - 14:40)
 Finally, customer support.
+
+Traditional: Often handled by founders/operations, but may need 1-2 extra people for volume.
+
 **StandardBuild**, now at a cumulative total of around 23 people, would typically hire dedicated support staff. This team would manually set up support channels, painstakingly create knowledge bases and FAQs, and handle customer inquiries through often time-consuming workflows.
-**AI-Optima**, with its core team of around 13, uses AI to transform this. AI agents can be trained on existing documentation (even code or videos) to automatically generate comprehensive FAQs and knowledge bases. These AI agents can then handle a large volume of initial customer calls and support tickets, with the small core human team stepping in only for complex escalations or issues the AI can't resolve.
+
+AI-Powered: AI tools can create documentation from videos, code, etc., building a strong knowledge base. Automate a lot of customer support.
+
+**AI-Optima**, with its core team of around 13, uses AI to transform this. AI agents can be trained on existing documentation (even code or videos) to automatically generate comprehensive FAQs and knowledge bases. These AI agents can then handle a large volume of initial customer calls and support tickets, with the small core human team stepping in only for complex escalations.
+
+While lean traditional startups might not have dedicated support, the workload often falls on development teams, increasing their size. AI can mitigate this.
 -->
 
 ---
@@ -369,7 +455,12 @@ Finally, customer support.
 <!--
 So, let's summarize what it took for both companies to get to their MVP.
 **StandardBuild** ended up with a team of approximately 23 individuals. Their key challenges are likely to be a longer time-to-market due to manual processes, a higher initial burn rate because of the larger payroll, intense competition for hiring specialized talent, and generally slower iteration cycles.
+
 **AI-Optima**, in contrast, built their MVP with a core team of around 13 AI-augmented individuals. Their challenges are different: such a small, fast-moving team might hit scaling and organizational bottlenecks sooner and could be less prepared for the complexities of managing rapid growth. Finding talent skilled in effectively leveraging AI is also a critical challenge.
+
+Something to note is that as we've gone through, we've noted things that aren't just good for headcount and being lean - they're better in general. Faster design cycles, fewer hand-offs, better documentation, better test coverage. 
+
+Add to that, that smaller team are significantly easier to manage and run.
 -->
 
 ---
@@ -383,7 +474,9 @@ At Create Future, we usually see three broad areas that need attention when comp
 * Foundations and Enablement
 
 <!--
+Upcoming: Key Challenges (14:51)
 Building the MVP is just the first step. The real test comes when it's time to scale.
+
 At Create Future, when we work with companies hitting that growth inflection point, we typically see challenges and opportunities falling into three broad categories:
 First, **Strategy and Direction**: Is the vision clear? Is the product strategy coherent?
 Second, **Delivery and Execution**: Can the team build and ship effectively as demand grows?
