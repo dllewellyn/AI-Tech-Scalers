@@ -28,7 +28,12 @@ We'll explore the shifts in strategies, team structures, and the overall speed a
 
 <!--
 To make this tangible, we'll follow the journey of two fictitious companies.
-Both are tasked with building the exact same product, but they'll take radically different paths to get there. One will use a traditional, well-trodden startup approach. The other will embrace AI from the very beginning.
+Both are tasked with building the exact same product, but they'll take radically different paths to get there. 
+
+One will use a traditional, well-trodden startup approach. The other will embrace AI from the very beginning.
+
+it's worth saying that when we say well trodden, were talking about the type of approach with such speed and agility that bigger companies can only dream of
+
 We'll look at how they tackle building their Minimum Viable Product, or MVP, and then consider the distinct scaling challenges each approach presents.
 -->
 
@@ -42,8 +47,12 @@ How does AI fundamentally change the way we build and scale tech companies?
 
 <!--
 This brings us to the central question of the talk.
+
 We're not just looking at incremental changes. We're asking: How does AI fundamentally rewrite the playbook for building and scaling technology companies?
-This image here visualizes that shift from older, more manual workflows to a future where AI is an integral partner.
+
+How can we expect AI-powered companies to work at the start, and what does it mean for their future scaling.
+
+This is a really exciting area, because as with traditional startups - they're not encumbred with the debt and processes of bigger companies and so they'll find it much easier to adopt the type of approach were going to discuss
 -->
 
 ---
