@@ -1,4 +1,5 @@
-Create a professional, modern business illustration for a tech meetup presentation about AI-powered startup scaling. The image should be clean, sophisticated, and suitable for a Glasgow Tech Meetup audience of entrepreneurs, developers, and tech professionals.
+
+Create a professional modern business illustration for a tech meetup presentation about AI-powered startup scaling. The image should be clean, sophisticated, and suitable for a Glasgow Tech Meetup audience of entrepreneurs, developers, and tech professionals.
 
 **Visual Style Requirements:**
 - Rose-pine-dawn color palette: soft rose tones (#ea9a97), warm whites, gentle purples, and muted dawn colors
